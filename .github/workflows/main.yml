@@ -5,6 +5,6 @@ on:
 
 jobs:
   say-hello:
-    runs-on: ubuntu-24.24
+    runs-on: windows-latest
     steps:
       - run: echo "Hello World"
